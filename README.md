@@ -1,11 +1,11 @@
 ## mini proj experimenting with chrome extensions
->> learn typescript for cleaner code
->> make my first chrome extension
-  >> create a sticker that lives on webpage
-    >> can customize the sticka to be like a little motivational icon
-    >> can drag and drop the sticka around the screen 
-    >> sticka can play music when prompted
->> jazz up a boring browser w a bit of ur personality. part of a tiny internet series.
+- learn typescript for cleaner code
+- make my first chrome extension
+a) create a sticker that lives on webpage
+ai) can customize the sticka to be like a little motivational icon
+aii) can drag and drop the sticka around the screen 
+aiii) sticka can play music when prompted
+b)jazz up a boring browser w a bit of ur personality. part of a tiny internet series.
 
 ### example stickers
 
