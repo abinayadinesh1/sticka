@@ -1,4 +1,4 @@
-## mini proj experimenting with chrome extensions
+## mini proj experimenting with typescript + chrome extensions
 - learn typescript for cleaner code
 - make my first chrome extension
 -   create a sticker that lives on webpage
